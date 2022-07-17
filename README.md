@@ -1,6 +1,7 @@
 <h1 align = "center">Hello, I am Pedro Quintino!</h1>
 <p>I'm a math teacher who discovered a love for programming and decided to embark on a quest to become a full-stack developer. </p>
 <h3>Languages and Tools:</h3>
+<div>
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -10,10 +11,15 @@
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
 
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<div>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-quintino&layout=compact&langs_count=16&theme=dracula" />
+</div>
 
 
 
